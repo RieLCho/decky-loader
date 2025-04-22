@@ -216,8 +216,8 @@
         },
         "store_tabs": {
             "about": "Tietoja",
-            "alph_asce": "Aakkosjärjestyksessä (Z–A)",
-            "alph_desc": "Aakkosjärjestyksessä (A–Z)",
+            "alph_asce": "Aakkosjärjestyksessä (A–Z)",
+            "alph_desc": "Aakkosjärjestyksessä (Z–A)",
             "title": "Selaa"
         },
         "store_testing_cta": "Harkitse uusien lisäosien testaamista auttaaksesi Decky Loader -tiimiä!",

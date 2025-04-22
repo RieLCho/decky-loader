@@ -221,8 +221,8 @@
         },
         "store_tabs": {
             "about": "정보",
-            "alph_asce": "알파벳순 (Z-A)",
-            "alph_desc": "알파벳순 (A-Z)",
+            "alph_asce": "알파벳순 (A-Z)",
+            "alph_desc": "알파벳순 (Z-A)",
             "date_asce": "오래된 순",
             "date_desc": "최신 순",
             "downloads_asce": "다운로드 수 낮은 순",

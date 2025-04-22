@@ -243,8 +243,8 @@
         },
         "store_tabs": {
             "about": "概要",
-            "alph_asce": "アルファベット(Z to A)",
-            "alph_desc": "アルファベット(A to Z)",
+            "alph_asce": "アルファベット順 (A to Z)",
+            "alph_desc": "アルファベット順 (Z to A)",
             "date_asce": "古い順",
             "date_desc": "新しい順",
             "downloads_asce": "ダウンロード数が少ない順",

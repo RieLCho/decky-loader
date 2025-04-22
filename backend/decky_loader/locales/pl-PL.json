@@ -235,8 +235,8 @@
         },
         "store_tabs": {
             "about": "Informacje",
-            "alph_asce": "Alfabetycznie (od Z do A)",
-            "alph_desc": "Alfabetycznie (od A do Z)",
+            "alph_asce": "Alfabetycznie (od A do Z)",
+            "alph_desc": "Alfabetycznie (od Z do A)",
             "date_asce": "Od najstarszych",
             "date_desc": "Od najnowszych",
             "downloads_asce": "Najmniej pobrań",

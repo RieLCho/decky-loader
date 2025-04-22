@@ -68,11 +68,9 @@ const BrowseTab: FC<{ setPluginCount: Dispatch<SetStateAction<number | null>> }>
 
   const dropdownSortOptions = useMemo(
     (): DropdownOption[] => [
-      // ascending and descending order are the wrong way around for the alphabetical sort
-      // this is because it was initially done incorrectly for i18n and 'fixing' it would
-      // make all the translations incorrect
-      { data: [SortOptions.name, SortDirections.ascending], label: t('Store.store_tabs.alph_desc') },
-      { data: [SortOptions.name, SortDirections.descending], label: t('Store.store_tabs.alph_asce') },
+      // 이제 모든 정렬 방향이 올바르게 매핑됩니다
+      { data: [SortOptions.name, SortDirections.ascending], label: t('Store.store_tabs.alph_asce') },
+      { data: [SortOptions.name, SortDirections.descending], label: t('Store.store_tabs.alph_desc') },
       { data: [SortOptions.date, SortDirections.ascending], label: t('Store.store_tabs.date_asce') },
       { data: [SortOptions.date, SortDirections.descending], label: t('Store.store_tabs.date_desc') },
       { data: [SortOptions.downloads, SortDirections.descending], label: t('Store.store_tabs.downloads_desc') },

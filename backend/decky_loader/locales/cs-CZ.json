@@ -261,8 +261,8 @@
         },
         "store_tabs": {
             "about": "O Decky Plugin Store",
-            "alph_asce": "Abecedně (Z do A)",
-            "alph_desc": "Abecedně (A do Z)",
+            "alph_asce": "Abecedně (A do Z)",
+            "alph_desc": "Abecedně (Z do A)",
             "date_asce": "Nejstarší",
             "date_desc": "Nejnovější",
             "downloads_asce": "Nejméně stažené",

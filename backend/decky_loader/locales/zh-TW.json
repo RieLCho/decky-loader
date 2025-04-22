@@ -212,8 +212,8 @@
         },
         "store_tabs": {
             "about": "關於",
-            "alph_asce": "依字母排序 (Z 到 A)",
-            "alph_desc": "依字母排序 (A 到 Z)",
+            "alph_asce": "依字母排序 (A 到 Z)",
+            "alph_desc": "依字母排序 (Z 到 A)",
             "date_asce": "日期舊到新",
             "date_desc": "日期新到舊",
             "downloads_asce": "下載量低到高",

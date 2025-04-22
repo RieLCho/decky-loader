@@ -228,8 +228,8 @@
         },
         "store_tabs": {
             "about": "Over",
-            "alph_asce": "Alfabetisch (Z naar A)",
-            "alph_desc": "Alfabetisch (A naar Z)",
+            "alph_asce": "Alfabetisch (A naar Z)",
+            "alph_desc": "Alfabetisch (Z naar A)",
             "date_asce": "Oudste eerst",
             "date_desc": "Nieuwste eerst",
             "downloads_asce": "Minste gedownload eerst",

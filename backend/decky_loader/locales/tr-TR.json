@@ -193,8 +193,8 @@
         },
         "store_tabs": {
             "about": "Hakkında",
-            "alph_asce": "Alfabetik (Z'den A'ya)",
-            "alph_desc": "Alfabetik (A'dan Z'ye)",
+            "alph_asce": "Alfabetik (A'dan Z'ye)",
+            "alph_desc": "Alfabetik (Z'den A'ya)",
             "date_asce": "Önce En Eski",
             "date_desc": "Önce En Yeni",
             "downloads_asce": "Önce En Az İndirilen",

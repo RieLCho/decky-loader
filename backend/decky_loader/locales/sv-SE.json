@@ -252,8 +252,8 @@
         },
         "store_tabs": {
             "about": "Om",
-            "alph_asce": "Alfabetisk (Z till A)",
-            "alph_desc": "Alfabetisk (A till Z)",
+            "alph_asce": "Alfabetisk (A till Z)",
+            "alph_desc": "Alfabetisk (Z till A)",
             "date_asce": "Äldsta först",
             "date_desc": "Senaste först",
             "downloads_asce": "Minst hämtade först",
